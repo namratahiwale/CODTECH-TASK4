@@ -8,7 +8,7 @@ Duration: July to August
 
 overview of the Project
 
-project: STOCK MARKET ANALYSIS AND PREDICTION:
+project: STOCK MARKET ANALYSIS AND PREDICTION
 
 Objective
 
